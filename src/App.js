@@ -18,6 +18,7 @@ class App extends Component {
           </a>
           <h2>add h2 functionality</h2>
           <h3>add h3 functionality</h3>
+          <button>New feature</button>
         </header>
       </div>
     );
