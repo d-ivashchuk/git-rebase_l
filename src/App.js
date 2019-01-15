@@ -17,6 +17,8 @@ class App extends Component {
           >
             Learn React
           </a>
+          <h2>add h2 functionality</h2>
+          <h3>add h3 functionality</h3>
         </header>
       </div>
     );
